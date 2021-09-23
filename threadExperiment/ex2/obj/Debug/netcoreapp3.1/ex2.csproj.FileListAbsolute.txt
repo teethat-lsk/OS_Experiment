@@ -1,0 +1,13 @@
+E:\work3.1\OS\threadExperiment\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+E:\work3.1\OS\threadExperiment\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+E:\work3.1\OS\threadExperiment\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+E:\work3.1\OS\threadExperiment\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+E:\work3.1\OS\threadExperiment\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+E:\work3.1\OS\threadExperiment\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+E:\work3.1\OS\threadExperiment\ex2\obj\Debug\netcoreapp3.1\ex2.csprojAssemblyReference.cache
+E:\work3.1\OS\threadExperiment\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+E:\work3.1\OS\threadExperiment\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+E:\work3.1\OS\threadExperiment\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+E:\work3.1\OS\threadExperiment\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+E:\work3.1\OS\threadExperiment\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+E:\work3.1\OS\threadExperiment\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache
